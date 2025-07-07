@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fahed Hermoza 👋</h1>
+<h1 align="center">Hi, I'm Fahed Hermoza 👋</h1>
 
 <h3 align="center">Senior Android Engineer | Android Lead @ NTT DATA Europe & Latam</h3>
 
